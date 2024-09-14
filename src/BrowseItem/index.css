@@ -1,0 +1,33 @@
+.listItem {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  justify-content: space-between;
+}
+.first {
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  align-self: center;
+}
+.second {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.time {
+  margin-right: 50px;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+.domain {
+  margin-left: 20px;
+  color: #475569;
+}
+.dltlogo {
+  padding-right: 50px;
+}

@@ -1,0 +1,57 @@
+.main-bg {
+  background-color: #3367d6;
+  display: flex;
+  height: 10vh;
+  padding: 20px;
+}
+.history {
+  margin-left: 100px;
+}
+.searchdiv {
+  background-color: #2850a7;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 50%;
+  height: 30px;
+  padding: 10px;
+  border: 1px solid #ececec;
+  margin-left: 150px;
+}
+.inp {
+  background-color: transparent;
+  width: 100%;
+  outline: none;
+  border-width: 0px;
+}
+.searchlogo {
+  border-width: 1px;
+}
+.vertical-line {
+  width: 1px;
+  height: 26px;
+  background-color: #ececec;
+  margin: 0 10px;
+}
+.secondbg {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 70%;
+  box-shadow: 0px 0px 4px 0px;
+  align-self: center;
+  border-radius: 10px;
+}
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.list {
+  list-style-type: none;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
